@@ -63,7 +63,6 @@ Converter:
 ```
 
 ## Requirements to run the demo
-
 To run the demo, refer to [System Requirements for Xamarin](https://help.syncfusion.com/xamarin/system-requirements)
 
 ## Troubleshooting
